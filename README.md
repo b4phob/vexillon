@@ -9,4 +9,9 @@ Our app has a specific goal being configuring flags the way you want it, we are 
 
 ### Library
 <p>Save flags to your library to reinstall or copy them after overwriting your current flag list</p>
-### 
+### Your in charge
+<p>We include a guide and even flag lists in your library to your choice! From performance to quality its always you in charge.
+### Sync 
+<p>Want your flags to be available without having to re-install the list? We keep your client up-to-date when booting your desktop!
+
+###### Please feel free to give suggestions trough our Discord server

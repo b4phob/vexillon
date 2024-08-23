@@ -28,13 +28,13 @@ Our app has a specific goal being configuring flags the way you want it, we are 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/b4phob/vexillon.svg?style=for-the-badge
 [contributors-url]: https://github.com/b4phob/vexillon/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/b4phob/vexillon.svg?style=for-the-badge
 [forks-url]: https://github.com/b4phob/vexillon/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/b4phob/vexillon.svg?style=for-the-badge
 [stars-url]: https://github.com/b4phob/vexillon/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+.svg?style=for-the-badge
 [issues-url]: https://github.com/b4phob/vexillon/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt

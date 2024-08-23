@@ -35,6 +35,8 @@ Our app has a specific goal being configuring flags the way you want it, we are 
 [stars-shield]: https://img.shields.io/github/stars/b4phob/vexillon.svg?style=for-the-badge
 [stars-url]: https://github.com/b4phob/vexillon/stargazers
 .svg?style=for-the-badge
+[issues-shield]:
+https://img.shields.io/github/issues/b4phob/vexillon.svg?style=for-the-badge
 [issues-url]: https://github.com/b4phob/vexillon/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt

@@ -1,5 +1,10 @@
 ###### Future of configuring roblox flags
 
+[![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/pizzaboxer/bloxstrap/blob/main/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pizzaboxer/bloxstrap/ci.yml?branch=main&label=builds)](https://github.com/pizzaboxer/bloxstrap/actions)
+[![Downloads](https://img.shields.io/github/downloads/pizzaboxer/bloxstrap/latest/total?color=981bfe)](https://github.com/pizzaboxer/bloxstrap/releases)
+[![Version](https://img.shields.io/github/v/release/pizzaboxer/bloxstrap?color=7a39fb)](https://github.com/pizzaboxer/bloxstrap/releases/latest)
+[![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/nKjV3mGq6R)
 
 <h1>Disclaimer</h1>
 We do not work for roblox neither do we control flags, these are made by roblox engineers to alter these values instead of launching a whole new client update. Altering these values yourself can improve gameplay and quality. We do not support using flags that gives you an unfair adventage. Never use flags you don't know about, doing so might break your game or client. We are not responsible for your actions if you ignore this.

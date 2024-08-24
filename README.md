@@ -18,13 +18,3 @@ Our app has a specific goal being configuring flags the way you want it, we are 
 <p>Want your flags to be available without having to re-install the list? We keep your client up-to-date when booting your desktop!</p>
 
 ###### Please feel free to give suggestions trough our Discord server
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/b4phob/vexillon.svg?style=for-the-badge
-[contributors-url]: https://github.com/b4phob/vexillon/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/b4phob/vexillon.svg?style=for-the-badge
-[forks-url]: https://github.com/b4phob/vexillon/network/members
-[stars-shield]: https://img.shields.io/github/stars/b4phob/vexillon.svg?style=for-the-badge
-[stars-url]: https://github.com/b4phob/vexillon/stargazers
-.svg?style=for-the-badge

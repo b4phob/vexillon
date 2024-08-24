@@ -1,6 +1,7 @@
 ###### Future of configuring roblox flags
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/1.0-green?style=flat&label=Version)
+
 
 <h1>Disclaimer</h1>
 We do not work for roblox neither do we control flags, these are made by roblox engineers to alter these values instead of launching a whole new client update. Altering these values yourself can improve gameplay and quality. We do not support using flags that gives you an unfair adventage. Never use flags you don't know about, doing so might break your game or client. We are not responsible for your actions if you ignore this.

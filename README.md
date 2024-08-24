@@ -20,3 +20,8 @@ Our app has a specific goal being configuring flags the way you want it, we are 
 <p>Want your flags to be available without having to re-install the list? We keep your client up-to-date when booting your desktop!</p>
 
 ###### Please feel free to give suggestions trough our Discord server
+
+<h1>Install</h1>
+
+### Trough github
+Scroll to the top and search for a tab named releases or click here

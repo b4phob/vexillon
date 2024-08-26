@@ -25,3 +25,10 @@ Our app has a specific goal being configuring flags the way you want it, we are 
 
 ### Trough github
 Scroll to the top and search for a tab named releases or click here
+
+### Winstall
+If you are looking for a fast and easy way to install it, run this command trough winstall
+
+```
+-winstall vexillon
+```

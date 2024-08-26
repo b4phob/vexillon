@@ -1,6 +1,6 @@
-<img src="https://github.com/b4phob/vexillon/raw/main/pics/vexillon.png" width="480"/>
+<center><img src="https://github.com/b4phob/vexillon/raw/main/pics/vexillon.png" width="480"/>
 
-![Static Badge](https://img.shields.io/badge/1.0-green?style=flat&label=Version)
+![Static Badge](https://img.shields.io/badge/1.0-green?style=flat&label=Version)</center>
 
 
 <h1>Disclaimer</h1>

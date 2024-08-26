@@ -23,6 +23,8 @@ Our app has a specific goal being configuring flags the way you want it, we are 
 
 <h1>Install</h1>
 
+###### Not downloadable at the moment
+
 ### Trough github
 Scroll to the top and search for a tab named releases or click here
 

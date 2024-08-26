@@ -30,5 +30,5 @@ Scroll to the top and search for a tab named releases or click here
 If you are looking for a fast and easy way to install it, run this command trough winstall
 
 ```
--winstall vexillon
+> winget install vexillon
 ```

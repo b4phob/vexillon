@@ -14,6 +14,9 @@ Our app has a specific goal being configuring fastflags the way you want it, we 
 
 <h1>Features</h1>
 
+### Easy to understand UI
+<p>Our ui is overal easy to understand because of the modern use of ui in our application</p>
+
 ### Library
 <p>Save fastflags to your library to reinstall or copy them after overwriting your current flag list</p>
 

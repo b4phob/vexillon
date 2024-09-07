@@ -4,7 +4,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/1.1.0-green?label=Version">
 </p>
 
-Here’s a polished version of your setup guide:
+A guide for vexillon 1.1.0
 
 ---
 

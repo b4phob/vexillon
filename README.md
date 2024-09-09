@@ -20,7 +20,7 @@ A guide for vexillon 1.1.0
 
 1. **Importing Kits**: You can import a "Kit" from the Discord server to fill up your library tab, or manually fill the textbox yourself. To import a kit, locate the `saved` folder on the same directory as `vexillon.exe` and add the downloaded jsons to that folder.
 
-2. **Submitting and saving files**: To import the file into Roblox, click Submit, only jsons are supported. Click "Save" to save the JSON data you’ve entered in the textbox. You can also add a file name using the Vexillon UI.
+2. **Submitting and saving files**: To import the file into Roblox, click Submit, only jsons are supported. Click "Save" to save the JSON data you’ve entered in the textbox. You can also add a file name using the Vexillon UI. **RESTART AFTER SUBMITTING**
 
 3. **Disbanding JSON**: Click "Disband" to remove the currently installed JSON file.
 

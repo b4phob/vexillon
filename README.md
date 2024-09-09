@@ -30,7 +30,7 @@ A guide for vexillon 1.1.0
 
 <h1>Errors and Suggestions</h1>
 
-If you encounter any errors, you can ask the community for help on the Discord server, where a high-ranking member will assist you. To troubleshoot errors yourself, ensure that the `tmp` and `saved` folders are in the same directory as `Vexillon.exe`. Feel free to suggest improvements via the Discord server linked below!
+If it doesn't work its becausey ou need to restart Vexillon after submitting. If you encounter any other errors, you can ask the community for help on the Discord server, where a high-ranking member will assist you. To troubleshoot errors yourself, ensure that the `tmp` and `saved` folders are in the same directory as `Vexillon.exe`. Feel free to suggest improvements via the Discord server linked below!
 
 [Join the Discord Server](https://discord.gg/fFvcJJZuzE)
 
